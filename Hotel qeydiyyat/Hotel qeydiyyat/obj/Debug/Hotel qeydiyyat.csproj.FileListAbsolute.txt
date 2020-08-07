@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Hotel qeydiyyat\Hotel qeydiyyat\bin\Debug\Hotel qeydiyyat.exe.config
+C:\Users\ASUS\source\repos\Hotel qeydiyyat\Hotel qeydiyyat\bin\Debug\Hotel qeydiyyat.exe
+C:\Users\ASUS\source\repos\Hotel qeydiyyat\Hotel qeydiyyat\bin\Debug\Hotel qeydiyyat.pdb
+C:\Users\ASUS\source\repos\Hotel qeydiyyat\Hotel qeydiyyat\obj\Debug\Hotel qeydiyyat.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Hotel qeydiyyat\Hotel qeydiyyat\obj\Debug\Hotel_qeydiyyat.Form1.resources
+C:\Users\ASUS\source\repos\Hotel qeydiyyat\Hotel qeydiyyat\obj\Debug\Hotel_qeydiyyat.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Hotel qeydiyyat\Hotel qeydiyyat\obj\Debug\Hotel qeydiyyat.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Hotel qeydiyyat\Hotel qeydiyyat\obj\Debug\Hotel qeydiyyat.exe
+C:\Users\ASUS\source\repos\Hotel qeydiyyat\Hotel qeydiyyat\obj\Debug\Hotel qeydiyyat.pdb
+C:\Users\ASUS\source\repos\Hotel qeydiyyat\Hotel qeydiyyat\obj\Debug\Hotel_qeydiyyat.Qeydiyyat.resources
